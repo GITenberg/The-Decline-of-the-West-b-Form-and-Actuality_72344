@@ -1,0 +1,30 @@
+_repo: The-Decline-of-the-West-b-Form-and-Actuality_72344
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Atkinson, Charles Francis
+    gutenberg_agent_id: '56649'
+    url: http://www.gutenberg.org/2009/agents/56649
+creator:
+  author:
+    agent_name: Spengler, Oswald
+    gutenberg_agent_id: '56648'
+    url: http://www.gutenberg.org/2009/agents/56648
+description: ''
+gutenberg_issued: '2023-12-06'
+identifiers:
+  gutenberg: '72344'
+language: en
+pgterms:marc905: 20210525044830spengler
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Tim Lindell, KD Weeks and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aLondon :$bGeorge Allen & Unwin, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Decline of the West : $b Form and Actuality'
+url: http://www.gutenberg.org/ebooks/72344
