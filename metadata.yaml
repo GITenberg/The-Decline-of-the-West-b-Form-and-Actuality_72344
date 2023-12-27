@@ -5,12 +5,17 @@ contributor:
     agent_name: Atkinson, Charles Francis
     gutenberg_agent_id: '56649'
     url: http://www.gutenberg.org/2009/agents/56649
+covers:
+- cover_type: archival
+  image_path: 72344-h/images/cover.jpg
 creator:
   author:
     agent_name: Spengler, Oswald
     gutenberg_agent_id: '56648'
     url: http://www.gutenberg.org/2009/agents/56648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72344#The-Decline-of-the-West-b-Form-and-Actuality
 gutenberg_issued: '2023-12-06'
 identifiers:
   gutenberg: '72344'
